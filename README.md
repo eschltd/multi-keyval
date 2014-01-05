@@ -41,20 +41,20 @@ inject(obj, "b", ["C", "D"])
 
 ## MIT Licenced
 
-  [1]: https://secure.travis-ci.org/eschltd/multi-keyvalue.png
-  [2]: https://travis-ci.org/eschltd/multi-keyvalue
-  [3]: https://david-dm.org/eschltd/multi-keyvalue.png
-  [4]: https://david-dm.org/eschltd/multi-keyvalue
-  [5]: https://ci.testling.com/eschltd/multi-keyvalue.png
-  [6]: https://ci.testling.com/eschltd/multi-keyvalue
-  [9]: https://coveralls.io/repos/eschltd/multi-keyvalue/badge.png
-  [10]: https://coveralls.io/r/eschltd/multi-keyvalue
-  [13]: https://nodei.co/npm/multi-keyvalue.png?downloads=true&stars=true
-  [14]: https://nodei.co/npm/multi-keyvalue
+  [1]: https://secure.travis-ci.org/eschltd/multi-keyval.png
+  [2]: https://travis-ci.org/eschltd/multi-keyval
+  [3]: https://david-dm.org/eschltd/multi-keyval.png
+  [4]: https://david-dm.org/eschltd/multi-keyval
+  [5]: https://ci.testling.com/eschltd/multi-keyval.png
+  [6]: https://ci.testling.com/eschltd/multi-keyval
+  [9]: https://coveralls.io/repos/eschltd/multi-keyval/badge.png
+  [10]: https://coveralls.io/r/eschltd/multi-keyval
+  [13]: https://nodei.co/npm/multi-keyval.png?downloads=true&stars=true
+  [14]: https://nodei.co/npm/multi-keyval
   [15]: http://hughsk.github.io/stability-badges/dist/unstable.svg
   [16]: http://github.com/hughsk/stability-badges
 
-  [7]: https://badge.fury.io/js/multi-keyvalue.png
-  [8]: https://badge.fury.io/js/multi-keyvalue
-  [11]: https://gemnasium.com/eschltd/multi-keyvalue.png
-  [12]: https://gemnasium.com/eschltd/multi-keyvalue
+  [7]: https://badge.fury.io/js/multi-keyval.png
+  [8]: https://badge.fury.io/js/multi-keyval
+  [11]: https://gemnasium.com/eschltd/multi-keyval.png
+  [12]: https://gemnasium.com/eschltd/multi-keyval
