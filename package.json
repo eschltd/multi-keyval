@@ -1,6 +1,6 @@
 {
   "name": "multi-keyval",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Resolve key conflicts with an array of values",
   "keywords": [],
   "author": "eschltd <matt@mattesch.info>",
