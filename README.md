@@ -1,14 +1,10 @@
 # multi-keyval
 
-<!--
-    [![build status][1]][2]
-    [![NPM version][3]][4]
-    [![Coverage Status][5]][6]
-    [![gemnasium Dependency Status][7]][8]
-    [![Davis Dependency status][9]][10]
--->
+[![build status][1]][2] [![dependency status][3]][4] [![coverage report][9]][10] [![stability index][15]][16]
 
-<!-- [![browser support][11]][12] -->
+[![npm stats][13]][14]
+
+[![browser support][5]][6]
 
 Resolve key conflicts with an array of values
 
@@ -45,15 +41,20 @@ inject(obj, "b", ["C", "D"])
 
 ## MIT Licenced
 
-  [1]: https://secure.travis-ci.org/eschltd/multi-keyval.png
-  [2]: https://travis-ci.org/eschltd/multi-keyval
-  [3]: https://badge.fury.io/js/multi-keyval.png
-  [4]: https://badge.fury.io/js/multi-keyval
-  [5]: https://coveralls.io/repos/eschltd/multi-keyval/badge.png
-  [6]: https://coveralls.io/r/eschltd/multi-keyval
-  [7]: https://gemnasium.com/eschltd/multi-keyval.png
-  [8]: https://gemnasium.com/eschltd/multi-keyval
-  [9]: https://david-dm.org/eschltd/multi-keyval.png
-  [10]: https://david-dm.org/eschltd/multi-keyval
-  [11]: https://ci.testling.com/eschltd/multi-keyval.png
-  [12]: https://ci.testling.com/eschltd/multi-keyval
+  [1]: https://secure.travis-ci.org/Matt-Esch/string-template.png
+  [2]: https://travis-ci.org/Matt-Esch/string-template
+  [3]: https://david-dm.org/Matt-Esch/string-template.png
+  [4]: https://david-dm.org/Matt-Esch/string-template
+  [5]: https://ci.testling.com/Matt-Esch/string-template.png
+  [6]: https://ci.testling.com/Matt-Esch/string-template
+  [9]: https://coveralls.io/repos/Matt-Esch/string-template/badge.png
+  [10]: https://coveralls.io/r/Matt-Esch/string-template
+  [13]: https://nodei.co/npm/string-template.png?downloads=true&stars=true
+  [14]: https://nodei.co/npm/string-template
+  [15]: http://hughsk.github.io/stability-badges/dist/unstable.svg
+  [16]: http://github.com/hughsk/stability-badges
+
+  [7]: https://badge.fury.io/js/string-template.png
+  [8]: https://badge.fury.io/js/string-template
+  [11]: https://gemnasium.com/Matt-Esch/string-template.png
+  [12]: https://gemnasium.com/Matt-Esch/string-template
